@@ -23,14 +23,15 @@
 
 ###  GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=k-mizoguch1&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
----
+<!---
 
 ###  Connect
 <p align="center">
   <!-- 例：Twitter や LinkedIn のバッジ -->
+  <!--
   <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
     <img src="https://img.shields.io/twitter/follow/YOUR_TWITTER_USERNAME?label=Follow&style=for-the-badge" alt="Twitter" />
   </a>
@@ -39,7 +40,7 @@
   </a>
 </p>
 
----
+--->
 
 ###  Let's Connect!
 お気軽にメッセージください :sunglasses:
